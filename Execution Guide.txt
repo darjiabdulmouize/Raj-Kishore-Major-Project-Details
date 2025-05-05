@@ -1,0 +1,25 @@
+Required Softwares : 
+
+1. Sypder
+2. Anaconda 
+3. Anaconda Prompt
+4. Make sure that ur anaconda and spyder having python in it .
+   just check weather ur anaconda having python by using basic command.
+5. In Python also u require many built in libraries like ,
+	i.   Streamlit
+	ii.  Pickle
+	iii. Transformers
+	iv.  Pandas
+	v.   Sklearn
+	vi.  Matplotlib
+	
+	You just run first if it shows required libraries then try to install	those packages or libraries.
+
+How to run :
+
+	Open the sypder and open the code folder where it is located.
+	Open Anaconda Prompt and open the directory in which ur code is 	located.
+	Then run this code : Streamlit run Navigation2.py
+	It will open the browser in local host. and perform ur things.
+
+Note : No need to have the files like Navigation, Navigation3 and some pictures just for information its there . Just follow above instructions and if any errors come u just ask to chatgpt it will give u complete guide line. 
